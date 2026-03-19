@@ -101,5 +101,5 @@ This project analyzes driver behavior and coupon acceptance patterns using data 
 - `images/`: Visualizations generated from analysis
 
 ## Repository
-[GitHub Repository](https://github.com/gowd-haraginadoni/ML-Will-Customer-Accept-Coupon)
-[Jupyter Notebook](https://github.com/gowd-haraginadoni/ML-Will-Customer-Accept-Coupon/blob/main/prompt.ipynb)
+- [GitHub Repository](https://github.com/gowd-haraginadoni/ML-Will-Customer-Accept-Coupon)
+- [Jupyter Notebook](https://github.com/gowd-haraginadoni/ML-Will-Customer-Accept-Coupon/blob/main/prompt.ipynb)
