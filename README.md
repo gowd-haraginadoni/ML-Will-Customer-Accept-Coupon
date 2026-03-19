@@ -88,7 +88,7 @@ This project analyzes driver behavior and coupon acceptance patterns using data 
    - Carry-out: Universal appeal, especially effective in adverse weather
 
 ## Technologies Used
-- Python 3.x
+- Python 3.14.3
 - pandas
 - matplotlib
 - seaborn
@@ -102,3 +102,4 @@ This project analyzes driver behavior and coupon acceptance patterns using data 
 
 ## Repository
 [GitHub Repository](https://github.com/gowd-haraginadoni/ML-Will-Customer-Accept-Coupon)
+[Jupyter Notebook](https://github.com/gowd-haraginadoni/ML-Will-Customer-Accept-Coupon/blob/main/prompt.ipynb)
