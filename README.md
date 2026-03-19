@@ -29,6 +29,9 @@ This project analyzes driver behavior and coupon acceptance patterns using data 
 - Traveling without children
 - Not working in farming-related occupations
 
+![Bar Coupon Acceptance Rates by Segment](images/bar_coupon_acceptance_rates_hypothesis.png)
+*Figure 1: Comprehensive comparison of bar coupon acceptance rates across different driver segments. Blue bars (≥50%) indicate high-acceptance groups, while light blue bars (<50%) show lower-acceptance groups.*
+
 ### Weather Impact on Coupon Acceptance
 
 **Carry-Out Coupons**: Weather-resistant with highest acceptance (61-77%)
@@ -59,6 +62,9 @@ This project analyzes driver behavior and coupon acceptance patterns using data 
 **Partners**: Moderate acceptance, especially for mid-range restaurants (62.50%)
 
 **Alone**: Variable acceptance depending on coupon type
+
+![Coupon Acceptance by Passenger Type and Coupon Type](images/coupon_acceptance_heatmap.png)
+*Figure 2: Heatmap showing acceptance rates by passenger type and coupon category. Darker colors indicate higher acceptance rates, revealing that social context (who's in the car) significantly impacts coupon acceptance patterns.*
 
 ### Time of Day Patterns
 
